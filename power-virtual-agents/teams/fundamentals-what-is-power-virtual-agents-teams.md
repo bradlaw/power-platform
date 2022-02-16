@@ -51,7 +51,7 @@ To see what Power Virtual Agents in Microsoft Teams can do, check out [our guide
 To get started creating bots in Teams with Power Virtual Agents straight away, see the [Create your first bot topic](authoring-first-bot-teams.md), or [download and use templates to help you create, develop, and publish chatbots](fundamentals-templates-teams.md) with Power Virtual Agents.
 
 > [!NOTE]
-> Power Virtual Agents does not currently support US Government Cloud plans.
+> Power Virtual Agents is supported in US Government Cloud plans. For more information see the related announcement at https://powervirtualagents.microsoft.com/en-us/blog/announcing-the-general-availability-of-microsoft-power-virtual-agents-for-us-government-customers/
 
 ## Important information
 <!-- CELA required disclosure, do not modify -->
